@@ -1,2 +1,2 @@
-# PrepCourse-Henry1
-Repositorio de prueba Módulo dos soy Henry 
+# PrepCourse-Henry1 
+Repositorio de prueba para sincronizar cambios a un servidor 
